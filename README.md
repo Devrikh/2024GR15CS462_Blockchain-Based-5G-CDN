@@ -3,16 +3,6 @@
 This project is a decentralized content delivery network (CDN) built on the Ethereum blockchain. It allows users to upload and purchase videos via smart contracts, store video files on IPFS, and distribute them through Dockerized edge nodes that simulate caching and content delivery.
 
 ---
-
-## 😃 Team Members:
-
-- ####  Devrikh Jatav                    202211018
-- ####  Chinchkar Sneha  Achyut          202211013
-- ####  Inarat Hussain                   202211030
-- ####  Suryansh Singh Raghuvansh        202211093
-
-
----
 ## 🧰 Tech Stack
 
 ### 🎨 Frontend
